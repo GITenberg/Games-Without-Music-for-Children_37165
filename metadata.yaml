@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '36863'
     url: http://www.gutenberg.org/2009/agents/36863
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37165#Games-Without-Music-for-Children
 gutenberg_issued: '2011-08-23'
 gutenberg_type: Text
 identifiers:
